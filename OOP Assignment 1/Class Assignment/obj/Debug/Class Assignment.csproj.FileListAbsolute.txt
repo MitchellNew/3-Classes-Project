@@ -1,0 +1,20 @@
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.exe.config
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.exe
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.pdb
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class_Assignment.Properties.Resources.resources
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csproj.GenerateResource.cache
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.exe
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.pdb
+C:\Users\Laptop\source\repos\OOP Assignment 1\Class Assignment\obj\Debug\Class_Assignment.Form1.resources
+E:\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.exe.config
+E:\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.exe
+E:\OOP Assignment 1\Class Assignment\bin\Debug\Class Assignment.pdb
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csprojAssemblyReference.cache
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class_Assignment.Form1.resources
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class_Assignment.Properties.Resources.resources
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csproj.GenerateResource.cache
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.csproj.CoreCompileInputs.cache
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.exe
+E:\OOP Assignment 1\Class Assignment\obj\Debug\Class Assignment.pdb
